@@ -1,0 +1,14 @@
+contractions
+emoji
+emot
+flashtext
+joblib
+matplotlib
+networkx
+nltk
+numpy
+pandas
+setuptools
+sphinx
+spacy
+scipy
